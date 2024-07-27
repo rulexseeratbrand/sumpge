@@ -38,7 +38,7 @@ label{
     height: 30px;
 }
 body{
-    background-image: url('https://i.ibb.co/RS3hpfj/Picsart-24-07-28-00-56-47-689.jpg');
+    background-image: url('https://i.ibb.co/0c2LJ4v/Picsart-24-07-28-01-19-59-376.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     
